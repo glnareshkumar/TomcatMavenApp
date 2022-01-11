@@ -4,7 +4,7 @@
 
     <groupId>com.sarav</groupId>
     <artifactId>TomcatMavenApp</artifactId>
-    <version>2.0</version>
+    <version>2.1</version>
     <packaging>war</packaging>
 
     <name>TomcatMavenApp</name>
@@ -18,7 +18,7 @@
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-web-api</artifactId>
-            <version>7.0</version>
+            <version>7.1</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
